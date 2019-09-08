@@ -74,7 +74,7 @@ img {
   min-height: 400px;
   text-align: center;
 
-  background: url("https://source.unsplash.com/1600x900/?programming, web");
+  background: url("../img/info_background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
